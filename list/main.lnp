@@ -1,0 +1,8 @@
+".\list\main.obj",
+".\list\delay.obj",
+".\list\uart.obj",
+".\list\i2c.obj",
+".\list\vl53l0x.obj" 
+TO ".\list\main" 
+PRINT(".\list\main.m51") RAMSIZE(256) 
+DISABLEWARNING (16) 
