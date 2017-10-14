@@ -172,10 +172,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>28</ColumnNumber>
+      <ColumnNumber>1</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>5</TopLine>
-      <CurrentLine>9</CurrentLine>
+      <TopLine>29</TopLine>
+      <CurrentLine>29</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -230,8 +230,8 @@
       <Focus>0</Focus>
       <ColumnNumber>23</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>537</TopLine>
-      <CurrentLine>549</CurrentLine>
+      <TopLine>698</TopLine>
+      <CurrentLine>720</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\vl53l0x.c</PathWithFileName>
       <FilenameWithoutPath>vl53l0x.c</FilenameWithoutPath>
@@ -1765,9 +1765,9 @@
       <Documents>
         <Doc>
           <Name>.\main.c</Name>
-          <ColumnNumber>51</ColumnNumber>
-          <TopLine>5</TopLine>
-          <CurrentLine>10</CurrentLine>
+          <ColumnNumber>16</ColumnNumber>
+          <TopLine>7</TopLine>
+          <CurrentLine>29</CurrentLine>
         </Doc>
         <Doc>
           <Name>CONFIG.H</Name>
@@ -1819,9 +1819,9 @@
         </Doc>
         <Doc>
           <Name>.\vl53l0x.c</Name>
-          <ColumnNumber>23</ColumnNumber>
-          <TopLine>537</TopLine>
-          <CurrentLine>549</CurrentLine>
+          <ColumnNumber>150</ColumnNumber>
+          <TopLine>590</TopLine>
+          <CurrentLine>590</CurrentLine>
         </Doc>
         <Doc>
           <Name>VL53L0X.H</Name>

@@ -172,10 +172,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>51</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
       <TopLine>5</TopLine>
-      <CurrentLine>8</CurrentLine>
+      <CurrentLine>10</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -1761,13 +1761,13 @@
     <ActiveMDIGroup>0</ActiveMDIGroup>
     <MDIGroup>
       <Size>100</Size>
-      <ActiveTab>0</ActiveTab>
+      <ActiveTab>9</ActiveTab>
       <Documents>
         <Doc>
           <Name>.\main.c</Name>
-          <ColumnNumber>28</ColumnNumber>
-          <TopLine>5</TopLine>
-          <CurrentLine>9</CurrentLine>
+          <ColumnNumber>1</ColumnNumber>
+          <TopLine>29</TopLine>
+          <CurrentLine>29</CurrentLine>
         </Doc>
         <Doc>
           <Name>CONFIG.H</Name>
@@ -1820,8 +1820,8 @@
         <Doc>
           <Name>.\vl53l0x.c</Name>
           <ColumnNumber>23</ColumnNumber>
-          <TopLine>537</TopLine>
-          <CurrentLine>549</CurrentLine>
+          <TopLine>698</TopLine>
+          <CurrentLine>720</CurrentLine>
         </Doc>
         <Doc>
           <Name>VL53L0X.H</Name>

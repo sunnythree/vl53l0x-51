@@ -718,7 +718,6 @@ unsigned char VL53L0X_init(unsigned char io_2v8)
   writeReg(0x00, 0x01);
   writeReg(0xFF, 0x00);
   writeReg(0x80, 0x00);
-  Uart2SendString("step 5\r\n");
   
   // -- VL53L0X_load_tuning_settings() end
 

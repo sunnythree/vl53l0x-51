@@ -26,7 +26,7 @@ void main(void)
 	sprintf(buf,"c1=%x\r\n",val);
 	Uart2SendString(buf);
 	val = VL53L0X_Read_Byte(IDENTIFICATION_REVISION_ID);
-	sprintf(buf,"val=%x\r\n",val);
+	sprintf(buf,"c2=%x\r\n",val);
 	Uart2SendString(buf);
 
 	VL53L0X_init(1);
